@@ -1,0 +1,57 @@
+{
+    "data": {
+        "intro": [
+          {
+            "id": "79874",
+            "title": "A.I. powered robots",
+            "startsAt": "8:00",
+            "day": "Friday",
+            "room": "Jupiter",
+            "level": "Introductory and overview",
+            "speakers": [
+              {
+                "id": "36a25c2a-4204-42f0-9ba8-d7b9c6f67226",
+                "name": "Bowie Graves",
+                "__typename": "Speaker"
+              }
+            ],
+            "__typename": "Session"
+          }
+        ],
+        "intermediate": [
+          {
+            "id": "84473",
+            "title": "Secure Programming for the Enterprise",
+            "startsAt": "8:00",
+            "day": "Friday",
+            "room": "Europa",
+            "level": "Intermediate",
+            "speakers": [
+              {
+                "id": "2bda8276-b7b6-4653-a7c5-1bcc59d11a49",
+                "name": "Jean Ryan",
+                "__typename": "Speaker"
+              }
+            ],
+            "__typename": "Session"
+          }
+        ],
+        "advanced": [
+          {
+            "id": "84375",
+            "title": "Automation: A Deep Dive into Jenkins",
+            "startsAt": "8:00",
+            "day": "Friday",
+            "room": "Saturn",
+            "level": "Advanced",
+            "speakers": [
+              {
+                "id": "8f3683fe-0760-487b-8a9d-9fbebfaf6bc7",
+                "name": "Brandy Terry",
+                "__typename": "Speaker"
+              }
+            ],
+            "__typename": "Session"
+          }    ]
+      }
+}
